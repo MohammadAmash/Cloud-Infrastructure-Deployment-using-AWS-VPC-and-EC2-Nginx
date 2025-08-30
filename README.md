@@ -1,1 +1,1 @@
-# Cloud-Infrastructure-Deployment-using-AWS-VPC-and-EC2-Nginx-
+# Cloud-Infrastructure-Deployment-using-AWS-VPC-and-EC2-Nginx
